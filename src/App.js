@@ -60,7 +60,7 @@ setFlag((flag => {
   </div>
 
 <div className="container">
-<h2>Now look at the list of {data.length} flags and choose the flag of Bruney. Please delete the unnecessary flags. </h2>
+<h2>Now look at the list of {data.length} flags and choose the flag of Argentina. Please delete the unnecessary flags. </h2>
   </div>
 
   </div>
